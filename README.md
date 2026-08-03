@@ -1,1 +1,2 @@
-These projects are a beginners insight of Machine Learning and Data Mining.
+These projects are a beginners insight into Machine Learning and Data Mining.
+My exposure to AI began in the Spring of 2026 at SUNY Canton University by exploring the basic concepts of Data Mining and Machine Learning taught by Dr. Medhi Gheyoumi.  The continuation of my learning journey in data science, I recently completed the course Applied AI for Smart Environment Applications that was led by Dr. Murat Simsek.
